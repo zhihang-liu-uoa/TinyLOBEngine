@@ -1,0 +1,10 @@
+
+--- Position History & PnL ---
+Frank: total volume = 40, cash = 4200, final pos = -40, min = -40, max = -40, avg = -40, PnL = 4200
+Eve: total volume = 60, cash = -6160, final pos = 60, min = 20, max = 60, avg = 40, PnL = -6160
+Diana: total volume = 70, cash = 7060, final pos = -70, min = -70, max = -50, avg = -60, PnL = 7060
+Charlie: total volume = 50, cash = -5100, final pos = 50, min = 50, max = 50, avg = 50, PnL = -5100
+Bob: total volume = 100, cash = 10000, final pos = -100, min = -100, max = -100, avg = -100, PnL = 10000
+Alice: total volume = 100, cash = -10000, final pos = 100, min = 100, max = 100, avg = 100, PnL = -10000
+
+[CHECK] Total Cash across all traders = 0
